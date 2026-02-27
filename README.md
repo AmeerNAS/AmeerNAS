@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Im currently working on creating automation software to automate the annoying redundant parts of my day to day.<br>Im looking to collaborate on ML and AI projects and connect with fellow experts in the field<br>Im looking for help with learning advanced algebra and mathematical formulas (its a real brain turner)<br>Im currently learning about Cybersecurity in AI! I am interested to share or learn with others aswell<br>Ask me about anything about AI and Machine learning and I would love to share my knowledge to help others!<br>fun fact about me: I can do second-degree Integral but not addition 
+I am passionate about building intelligent systems that solve real-world problems. Currently, I am developing automation software to streamline repetitive, time-consuming workflows and improve productivity through smart, scalable solutions.
+
+I am actively seeking opportunities to collaborate on innovative Machine Learning and AI projects, and I enjoy connecting with professionals who are equally driven to push the boundaries of technology. I thrive in environments where ideas are exchanged openly and complex challenges are tackled collaboratively.
+
+To strengthen my technical foundation, I am deepening my understanding of advanced algebra and mathematical modeling — continuously sharpening the quantitative skills that power effective AI systems. I am also expanding my knowledge in AI-focused cybersecurity, exploring how to design and protect intelligent systems in an evolving threat landscape.
+
+I am always open to discussions about AI, Machine Learning, and automation — whether it’s exchanging ideas, mentoring, or learning from others in the field.
+
+**Fun fact:** I can solve second-degree integrals… but sometimes still double-check basic arithmetic. I believe curiosity, persistence, and humility are just as important as technical skill.
 
 
 ## 🌐 Socials:
